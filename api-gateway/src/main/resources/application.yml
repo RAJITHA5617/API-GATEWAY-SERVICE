@@ -1,0 +1,4 @@
+
+movie-service-url: http://localhost:8081/movies
+ratings-service-url: http://localhost:8082/ratings
+
